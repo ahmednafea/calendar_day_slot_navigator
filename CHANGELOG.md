@@ -1,4 +1,9 @@
+## 0.0.3
+
+- Downgrade sizer package from ^3.0.3 to ^2.0.15 to ensure compatibility.
+
 ## 0.0.2
+
 - update dependencies.
 
 ## 0.0.1
